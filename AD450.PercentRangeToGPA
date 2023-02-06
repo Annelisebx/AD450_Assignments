@@ -1,3 +1,8 @@
+#Program will ask user to input their grade as a percentage. 
+#The input must be an integer. 
+#The program then uses the percentage grade and converts it to a GPA and prints that GPA for the user. 
+
+
 {
  "cells": [
   {
